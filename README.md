@@ -1,2 +1,2 @@
-# MOL
-MOL: Modeling &amp; Optimization Language
+# MMOL
+MMOL: Mathematical Modeling &amp; Optimization Language
